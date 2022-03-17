@@ -28,4 +28,4 @@ Olá , eu sou Cleiton !!👋
   <a href=https://www.linkedin.com/in/cleiton-trindade-65352a222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/r/CleitonTrindadeDev/blob/output/github-contribution-grid-snake.svg)
+
