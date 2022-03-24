@@ -1,7 +1,7 @@
 Olá , eu sou Cleiton !!👋
 
 - 👨‍💻 Desenvolvedor Front-End
-- Estudando jQuery, Angular , Bootstrap 
+- Estudando jQuery, Angular 
 - ✉ Me mande um Email : sinaj.trade@gmail.com
 - 💾 Acesse meu portfólio aqui :  https://cleitontrindadedev.github.io/portifolio/
 
@@ -13,10 +13,11 @@ Olá , eu sou Cleiton !!👋
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jsicon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP-icon" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Jsicon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP-icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="BT-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="right" alt="gif" width="200" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
 </div>
   
