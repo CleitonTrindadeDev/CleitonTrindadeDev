@@ -1,7 +1,7 @@
 Olá , eu sou Cleiton !!👋
 
 - 👨‍💻 Desenvolvedor Front-End
-- Estudando jQuery, Angular 
+- Estudando Angular 
 - ✉ Me mande um Email : sinaj.trade@gmail.com
 - 💾 Acesse meu portfólio aqui :  https://cleitontrindadedev.github.io/portifolio/
 
@@ -19,6 +19,7 @@ Olá , eu sou Cleiton !!👋
   <img align="center" alt="PHP-icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="BT-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="right" alt="gif" width="200" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
+  <img align="center" alt="jq-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /
 </div>
   
    ##
