@@ -1,7 +1,7 @@
 Olá , eu sou Cleiton !!👋
 
 - 👨‍💻 Desenvolvedor Front-End
-- 📚 Estudando Angular 
+- 📚 Estudando React
 - ✉ Me mande um Email : sinaj.trade@gmail.com
 - 💾 Acesse meu portfólio aqui :  https://cleitontrindadedev.github.io/portifolio/
 
