@@ -21,7 +21,8 @@ Olá , eu sou Cleiton !!👋
   <img align="right" alt="gif" width="200" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
   <img align="center" alt="jq-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /
 </div>
-  <img align="center" alt="CSS-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="VUE-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="GIT-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
    ##
   
